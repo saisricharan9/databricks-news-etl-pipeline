@@ -2,7 +2,7 @@
 
 ## 📌 Project Overview
 
-Built an end-to-end ETL pipeline using Azure Databricks and Python to extract entertainment news data from NewsAPI, transform and clean the data, perform NLP-based sentiment analysis, and store the processed data for analytics and reporting.
+Built an end-to-end ETL pipeline using Databricks and Python to extract entertainment news data from NewsAPI, transform and clean the data, perform NLP-based sentiment analysis, and store the processed data for analytics and reporting.
 
 The pipeline automates news ingestion, full article extraction, text preprocessing, sentiment classification, and workflow scheduling using Databricks.
 
