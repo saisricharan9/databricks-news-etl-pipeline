@@ -10,7 +10,7 @@ The pipeline automates news ingestion, full article extraction, text preprocessi
 
 ## ⚙️ Tech Stack
 
-- 🚀 Azure Databricks
+- 🚀 Databricks
 - 🐍 Python
 - 📊 Pandas
 - 🔥 PySpark
